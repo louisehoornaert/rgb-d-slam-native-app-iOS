@@ -1,0 +1,7 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Depthkit.Depthkit_Metadata" preserve="nothing" serialized="true"/>
+		<type fullname="Depthkit.Depthkit_Metadata/Perspective" preserve="nothing" serialized="true"/>
+		<type fullname="Depthkit.Depthkit_PlayerEvents" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
