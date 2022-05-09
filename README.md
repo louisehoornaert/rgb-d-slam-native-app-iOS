@@ -2,6 +2,8 @@
 
 Dit prototype is een onderdeel van de scriptie die werd gemaakt voor de opleiding Toegepaste Informatica, Mobile & Enterprise Development aan de Hogeschool Gent.
 
+Dit project gaat niet succesvol runnen omdat er 2 library files in gitignore zitten (libil2cpp.a & libiPhone-lib.a). Deze waren te groot om up te loaden naar Github.  
+
 # Demo
 
 ![alt text](https://user-images.githubusercontent.com/47556281/167379778-490ec86e-ebbb-426a-ad23-79bb3e2d8f0e.PNG "hologram")
