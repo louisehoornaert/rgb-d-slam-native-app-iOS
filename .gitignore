@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+## te groot voor github
+libil2cpp.a
+libiPhone-lib.a
+
 # User-specific files
 *.rsuser
 *.suo
